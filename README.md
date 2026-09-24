@@ -43,7 +43,9 @@
 ## 👾 Sobre Mim
 
 ```text
-Estudante de Desenvolvimento de Sistemas, apaixonada por tecnologia e programação. Estou desenvolvendo meus conhecimentos em Java, Spring, HTML, CSS e JavaScript, criando projetos e buscando evoluir cada vez mais na área de desenvolvimento de software.💗
+Estudante de Desenvolvimento de Sistemas, apaixonada por tecnologia e programação.
+Estou desenvolvendo meus conhecimentos em Java, Spring, HTML, CSS e JavaScript,
+criando projetos e buscando evoluir cada vez mais na área de desenvolvimento de software.💗
 ```
 
 > 💗 **"Transformando ideias em código e código em soluções."**
