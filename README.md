@@ -252,7 +252,6 @@ $ echo "Keep learning. Keep building."
 <img src="https://raw.githubusercontent.com/BeatrizBomfim09/BeatrizBomfim09/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
-
 ---
 <div align="center">
 
