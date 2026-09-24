@@ -284,7 +284,7 @@ $ echo "Keep learning. Keep building."
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `> Obrigado por visitar esse perfil. 💗`
+### `> Obrigado por visitar esse perfil 💗`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FCB,50:241020,100:0D050B&height=120&section=footer"/>
 
