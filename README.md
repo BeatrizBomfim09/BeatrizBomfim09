@@ -287,10 +287,6 @@ $ echo "Keep learning. Keep building."
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF69D4"/>
 </a>
 
-<a href="mailto:beatrizbbomfim09@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF69D4"/>
-</a>
-
 </div>
 
 ---
