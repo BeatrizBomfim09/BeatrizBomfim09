@@ -49,7 +49,7 @@
 │                                                              │
 │  NAME       :: Beatriz                                       │
 │  ROLE       :: Developer                                     │
-│  LOCATION   :: Brazil 🇧🇷                                    │
+│  LOCATION   :: Brazil 🇧🇷                                     │
 │  STATUS     :: ONLINE                                        │
 │                                                              │
 │  FOCUS      :: Software Development                          │
@@ -92,6 +92,7 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 </div>
 
 ---
+
 
 ## 🛠️ Ferramentas
 
@@ -205,6 +206,7 @@ Projetos envolvendo eletrônica, sensores e automação.
 
 ---
 
+
 ## 🎯 Objetivos Atuais
 
 ```bash
@@ -222,7 +224,10 @@ $ systemctl status developer
 [ ] Aprofundar APIs REST
 [ ] Evoluir em Angular
 [ ] Criar projetos mais completos
+[ ] Contribuir para projetos Open Source
 
+$ echo "Keep learning. Keep building."
+```
 
 ---
 
@@ -295,14 +300,14 @@ $ systemctl status developer
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              SYSTEM ONLINE • CONNECTION ESTABLISHED         ║
+║              SYSTEM ONLINE • CONNECTION ESTABLISHED          ║
 ║                                                              ║
-║             CODE  •  CREATE  •  LEARN  •  EVOLVE            ║
+║             CODE  •  CREATE  •  LEARN  •  EVOLVE             ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `> Obrigado por visitar esse perfil 💗`
+### `> Thanks for visiting my digital space. 💗`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FCB,50:241020,100:0D050B&height=120&section=footer"/>
 
