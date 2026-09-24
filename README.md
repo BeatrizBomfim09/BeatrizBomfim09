@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D050B,50:241020,100:FF4FCB&height=220&section=header&text=SYSTEM%20INITIALIZED&fontSize=42&fontColor=FF69D4&animation=fadeIn&fontAlignY=35&desc=WELCOME%20TO%20MY%20DIGITAL%20SPACE&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D050B,50:241020,100:FF4FCB&height=220&section=header&text=Beatriz Bomfim&fontSize=42&fontColor=FF69D4&animation=fadeIn&fontAlignY=35&desc=WELCOME%20TO%20MY%20DIGITAL%20SPACE&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
