@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D050B,50:241020,100:FF4FCB&height=220&section=header&text=Beatriz Bomfim&fontSize=42&fontColor=FF69D4&animation=fadeIn&fontAlignY=35&desc=WELCOME%20TO%20MY%20DIGITAL%20SPACE&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D050B,50:241020,100:FF4FCB&height=220&section=header&text=BEATRIZ%20BOMFIM&fontSize=42&fontColor=FF69D4&animation=fadeIn&fontAlignY=35&desc=WELCOME%20TO%20MY%20DIGITAL%20SPACE&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF69D4&center=true&vCenter=true&width=700&lines=Initializing+Developer+System...;Loading+Knowledge+Modules...;Java+%7C+Spring+Boot+%7C+HTML+%7C+CSS;Building+Digital+Solutions;Welcome+to+my+GitHub+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF69D4&center=true&vCenter=true&width=700&lines=Initializing+Developer+System...;Loading+Knowledge+Modules...;Java+%7C+Spring+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+Digital+Solutions;Welcome+to+my+GitHub+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation"/>
 
 <br><br>
 
@@ -47,7 +47,7 @@
 │                     DEVELOPER PROFILE                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  NAME       :: Beatriz                                       │
+│  NAME       :: Beatriz Bomfim                                │
 │  ROLE       :: Developer                                     │
 │  LOCATION   :: Brazil 🇧🇷                                    │
 │  STATUS     :: ONLINE                                        │
@@ -58,7 +58,6 @@
 │  CURRENTLY  :: Building • Learning • Improving               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
 
 > 💗 **"Transformando ideias em código e código em soluções."**
 
