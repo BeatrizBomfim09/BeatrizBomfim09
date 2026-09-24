@@ -69,7 +69,7 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 ---
 
 
-## ⚡ Tech Stack
+## ⚡ Tecnologias
 
 <div align="center">
 
