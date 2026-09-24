@@ -254,7 +254,10 @@ $ echo "Keep learning. Keep building."
 </div>
 
 ---
+<div align="center">
 
+```
+```
 
 ## 🌐 Conecte-se Comigo
 
