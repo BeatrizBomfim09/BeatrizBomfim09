@@ -39,7 +39,7 @@
 
 ---
 
-# `> ABOUT_ME.exe`
+# `> Sobre Mim
 
 ## 👾 Sobre Mim
 
