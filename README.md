@@ -39,7 +39,6 @@
 
 ---
 
-# `> Sobre Mim
 
 ## 👾 Sobre Mim
 
@@ -69,7 +68,6 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 
 ---
 
-# `> TECH_STACK.load()`
 
 ## ⚡ Tech Stack
 
@@ -118,7 +116,7 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 
 ---
 
-# `> PROJECTS.execute()`
+
 
 ## 🚀 Projetos
 
@@ -210,7 +208,6 @@ Projetos envolvendo eletrônica, sensores e automação.
 
 ---
 
-# `> CURRENT_MISSION.sh`
 
 ## 🎯 Objetivos Atuais
 
@@ -236,7 +233,6 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-# `> GITHUB_ANALYTICS.exe`
 
 ## 📊 GitHub Analytics
 
@@ -258,7 +254,7 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-# `> ACHIEVEMENTS.scan()`
+
 
 ## 🏆 Conquistas
 
@@ -270,7 +266,6 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
 
 ## 🐍 Contribution Snake
 
@@ -282,7 +277,6 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-# `> NETWORK.connect()`
 
 ## 🌐 Conecte-se Comigo
 
