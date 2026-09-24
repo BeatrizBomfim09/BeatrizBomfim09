@@ -93,7 +93,6 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 
 ---
 
-# `> TOOLS.scan()`
 
 ## 🛠️ Ferramentas
 
