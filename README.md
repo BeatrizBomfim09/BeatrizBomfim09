@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## `◈ SYSTEM NAVIGATION ◈`
+## `◈ NAVEGAÇÃO ◈`
 
 <p>
 <a href="#-sobre-mim">ABOUT</a> •
