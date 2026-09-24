@@ -272,17 +272,6 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              SYSTEM ONLINE • CONNECTION ESTABLISHED          ║
-║                                                              ║
-║             CODE  •  CREATE  •  LEARN  •  EVOLVE             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 ### `> Obrigado por visitar esse perfil 💗`
 
