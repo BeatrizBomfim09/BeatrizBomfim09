@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## `◈ SYSTEM NAVIGATION ◈`
+## `◈ NAVEGAÇÃO ◈`
 
 <p>
 <a href="#-sobre-mim">ABOUT</a> •
@@ -39,7 +39,6 @@
 
 ---
 
-# `> ABOUT_ME.exe`
 
 ## 👾 Sobre Mim
 
@@ -69,7 +68,6 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 
 ---
 
-# `> TECH_STACK.load()`
 
 ## ⚡ Tech Stack
 
@@ -95,8 +93,6 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 
 ---
 
-# `> TOOLS.scan()`
-
 ## 🛠️ Ferramentas
 
 <div align="center">
@@ -118,7 +114,6 @@ Meu foco está em aprender novas tecnologias, desenvolver projetos e transformar
 
 ---
 
-# `> PROJECTS.execute()`
 
 ## 🚀 Projetos
 
@@ -210,8 +205,6 @@ Projetos envolvendo eletrônica, sensores e automação.
 
 ---
 
-# `> CURRENT_MISSION.sh`
-
 ## 🎯 Objetivos Atuais
 
 ```bash
@@ -236,7 +229,6 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-# `> GITHUB_ANALYTICS.exe`
 
 ## 📊 GitHub Analytics
 
@@ -258,7 +250,6 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-# `> ACHIEVEMENTS.scan()`
 
 ## 🏆 Conquistas
 
@@ -282,7 +273,6 @@ $ echo "Keep learning. Keep building."
 
 ---
 
-# `> NETWORK.connect()`
 
 ## 🌐 Conecte-se Comigo
 
