@@ -1,32 +1,31 @@
-
-
+```html
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBBE6,50:F25CD9,100:FF42CA&height=200&section=header&text=Beatriz%20Bomfim&fontSize=42&fontColor=FFFFFF&fontAlignY=35&font=Playfair%20Display&animation=fadeIn&desc=TECNOLOGIA%20%7C%20CRIATIVIDADE%20%7C%20INOVA%C3%87%C3%83O&descSize=12&descAlignY=55&descColor=FFFFFF"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:722F37,50:800020,100:5E172D&height=200&section=header&text=Beatriz%20Bomfim&fontSize=42&fontColor=FFFFFF&fontAlignY=35&font=Playfair%20Display&animation=fadeIn&desc=TECNOLOGIA%20%7C%20CRIATIVIDADE%20%7C%20INOVA%C3%87%C3%83O&descSize=12&descAlignY=55&descColor=FFFFFF"
   alt="Banner de Beatriz Bomfim"
 />
 
 <!-- ANIMAÇÃO DE APRESENTAÇÃO -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=FEBBE6&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+ideias+em+c%C3%B3digo;Aprendendo%2C+evoluindo+e+criando+projetos"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+ideias+em+c%C3%B3digo;Aprendendo%2C+evoluindo+e+criando+projetos"
   alt="Animação de apresentação"
 />
 
 <br/>
 
 <img
-  src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-FEBBE6?style=for-the-badge&labelColor=241020"
+  src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-800020?style=for-the-badge&labelColor=241020"
   alt="Status em evolução"
 />
 <img
-  src="https://img.shields.io/badge/FOCO-TECNOLOGIA-F25CD9?style=for-the-badge&labelColor=241020"
+  src="https://img.shields.io/badge/FOCO-TECNOLOGIA-722F37?style=for-the-badge&labelColor=241020"
   alt="Foco em tecnologia"
 />
 <img
-  src="https://img.shields.io/badge/PA%C3%8DS-BRASIL-FEBBE6?style=for-the-badge&labelColor=241020"
+  src="https://img.shields.io/badge/PA%C3%8DS-BRASIL-800020?style=for-the-badge&labelColor=241020"
   alt="País: Brasil"
 />
 
@@ -102,7 +101,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 <a href="https://github.com/BeatrizBomfim09/SafeGate">
 <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=BeatrizBomfim09&repo=SafeGate&bg_color=241020&title_color=FEBBE6&text_color=E8DCE8&icon_color=F25CD9&border_color=71345F"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=BeatrizBomfim09&repo=SafeGate&bg_color=241020&title_color=800020&text_color=E8DCE8&icon_color=722F37&border_color=5E172D"
   alt="Projeto SafeGate"
 />
 </a>
@@ -121,7 +120,7 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBomfim09&layout=compact&hide_border=true&bg_color=241020&title_color=FEBBE6&text_color=E8DCE8&langs_count=6"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBomfim09&layout=compact&hide_border=true&bg_color=241020&title_color=800020&text_color=E8DCE8&langs_count=6"
   alt="Linguagens mais utilizadas"
 />
 
@@ -135,14 +134,14 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 
 <a href="https://github.com/BeatrizBomfim09">
   <img
-    src="https://img.shields.io/badge/GitHub-241020?style=for-the-badge&logo=github&logoColor=FEBBE6"
+    src="https://img.shields.io/badge/GitHub-241020?style=for-the-badge&logo=github&logoColor=800020"
     alt="GitHub"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/beatriz-b-7b3b72380/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-241020?style=for-the-badge&logo=linkedin&logoColor=FEBBE6"
+    src="https://img.shields.io/badge/LinkedIn-241020?style=for-the-badge&logo=linkedin&logoColor=800020"
     alt="LinkedIn"
   />
 </a>
@@ -158,10 +157,11 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:DB55B8,50:71345F,100:17101C&height=110&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:5E172D,100:17101C&height=110&section=footer"
   alt="Rodapé rosa"
 />
 
 <sub>© 2026 · Transformando ideias em tecnologia.</sub>
 
 </div>
+```
