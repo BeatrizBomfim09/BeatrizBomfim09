@@ -209,13 +209,6 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doaÃ
 />
 </a>
 
-<a href="mailto:beatrizbbomfim09@gmail.com">
-  <img
-    src="https://img.shields.io/badge/E--mail-241020?style=for-the-badge&logo=gmail&logoColor=FEBBE6"
-    alt="E-mail"
-/>
-</a>
-
 <br/><br/>
 
 <img
