@@ -235,7 +235,6 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa�
   alt="Rodapé rosa"
 />
 
-### ♡ Beatriz Bomfim ♡
 
 <sub>Feito com amor por Beatriz Bomfim</sub>
 
