@@ -127,6 +127,7 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
   alt="Linguagens mais utilizadas"
 />
 
+
 ## REDES SOCIAIS
 
 <div align="center">
