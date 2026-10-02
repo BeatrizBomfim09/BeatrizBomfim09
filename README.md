@@ -195,11 +195,6 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa�
   alt="Rodapé rosa"
 />
 
-
-<sub>Feito com amor por Beatriz Bomfim</sub>
-
-<br/>
-
 <sub>© 2026 · Transformando ideias em tecnologia.</sub>
 
 </div>
