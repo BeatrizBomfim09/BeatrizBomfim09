@@ -119,14 +119,15 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 
 <div align="center">
 
-<!-- LINGUAGENS MAIS UTILIZADAS -->
-
 <img
   width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBomfim09&layout=compact&hide_border=true&bg_color=241020&title_color=FEBBE6&text_color=E8DCE8&langs_count=6"
   alt="Linguagens mais utilizadas"
 />
 
+</div>
+
+---
 
 ## REDES SOCIAIS
 
@@ -136,17 +137,21 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
   <img
     src="https://img.shields.io/badge/GitHub-241020?style=for-the-badge&logo=github&logoColor=FEBBE6"
     alt="GitHub"
-/>
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/beatriz-b-7b3b72380/">
   <img
     src="https://img.shields.io/badge/LinkedIn-241020?style=for-the-badge&logo=linkedin&logoColor=FEBBE6"
     alt="LinkedIn"
-/>
+  />
 </a>
 
 <br/><br/>
+
+</div>
+
+---
 
 
 <div align="center">
