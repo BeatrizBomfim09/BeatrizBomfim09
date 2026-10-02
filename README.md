@@ -34,7 +34,7 @@
 
 ---
 
-## `01. SOBRE MIM`
+## SOBRE MIM
 
 <img
   align="right"
