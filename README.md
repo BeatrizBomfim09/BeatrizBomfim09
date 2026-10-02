@@ -2,9 +2,11 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBBE6,50:F25CD9,100:FF42CA&height=120&section=footer&animation=fadeIn"
-  alt="Rodapé animado rosa"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBBE6,50:F25CD9,100:FF42CA&height=180&section=footer&text=Beatriz%20Bomfim&fontSize=35&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn"
+  alt="Beatriz Bomfim"
 />
+
+</div>
 
 <br/>
 
