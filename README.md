@@ -1,22 +1,71 @@
-<!--
-  README de Beatriz Bomfim
-  Tema: Cyberpunk / JARVIS / Rosa Neon
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:16091A,35:4A153B,70:DB55B8,100:FEBBE6&text=BEATRIZ%20BOMFIM&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=SYSTEM%20ONLINE%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=13&descAlignY=68&stroke=FEBBE6&strokeWidth=1" alt="Banner Beatriz Bomfim"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=FEBBE6&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Bem-vindo+ao+meu+universo+digital.;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+ideias+em+c%C3%B3digo.;Building+the+future%2C+one+line+at+a+time." alt="Animação de texto"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D050B,50:241020,100:FF4FCB&height=220&se… width="100%"/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FEBBE6?style=for-the-badge&labelColor=17101C" alt="Status online"/>
-<img src="https://img.shields.io/badge/FOCUS-LEARNING-F25CD9?style=for-the-badge&labelColor=17101C" alt="Foco em aprendizado"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-FEBBE6?style=for-the-badge&labelColor=17101C" alt="Brasil"/>
+
+
+<br>
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=10… alt="Typing Animation"/>
+
+
+
+<br><br>
+
+
+
+<a href="https://github.com/BeatrizBomfim09">
+<img src="https://img.shields.io/badge/GitHub-BeatrizBomfim09-0D1117?style=for-the-badge&logo=github&logoColo…
+</a>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=BeatrizBomfim09&style=for-the-badge&color=FF4FCB&label=PROFILE+…
+
+
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF4FCB?style=for-the-badge"/>
+
+
 
 </div>
 
+
+
+---
+
+
+
+<div align="center">
+
+
+
+## `◈ NAVEGAÇÃO ◈`
+
+
+
+<p>
+<a href="#-sobre-mim">ABOUT</a> •
+<a href="#-tech-stack">STACK</a> •
+<a href="#-ferramentas">TOOLS</a> •
+<a href="#-projetos">PROJECTS</a> •
+<a href="#-objetivos-atuais">GOALS</a> •
+<a href="#-github-analytics">STATS</a> •
+<a href="#-conquistas">TROPHIES</a> •
+<a href="#-conecte-se-comigo">CONTACT</a>
+</p>
+
+
+
+</div>
+
+
+
+---
 ---
 
 ## `01. SOBRE MIM`
