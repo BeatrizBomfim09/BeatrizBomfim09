@@ -100,24 +100,32 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 <div align="center">
 
 <a href="https://github.com/BeatrizBomfim09/SafeGate">
-
 <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=BeatrizBomfim09&repo=SafeGate&bg_color=241020&title_color=FEBBE6&text_color=E8DCE8&icon_color=F25CD9&border_color=71345F"
   alt="Projeto SafeGate"
 />
-
 </a>
 
-<a href="https://github.com/BeatrizBomfim09/Food-Rescue">
-
+<a href="https://github.com/BeatrizBomfim09/Cafe-Aroma-e-Sabor">
 <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=BeatrizBomfim09&repo=Food-Rescue&bg_color=241020&title_color=FEBBE6&text_color=E8DCE8&icon_color=F25CD9&border_color=71345F"
-  alt="Projeto Food Rescue"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=BeatrizBomfim09&repo=Cafe-Aroma-e-Sabor&bg_color=241020&title_color=FEBBE6&text_color=E8DCE8&icon_color=F25CD9&border_color=71345F"
+  alt="Projeto Café Aroma e Sabor"
 />
-
 </a>
 
 </div>
+
+### ◈ SafeGate — Sistema Escolar
+
+Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxiliar no controle e na organização do ambiente escolar.
+
+**Tecnologias:** Java, Spring Boot, HTML, CSS e SQL.
+
+### ☕ Café Aroma e Sabor
+
+Projeto de um site para uma cafeteria, com uma identidade visual acolhedora e foco na apresentação dos produtos e na experiência dos clientes.
+
+**Tecnologias:** HTML, CSS e JavaScript.
 
 ### ◈ SafeGate — Sistema Escolar
 
