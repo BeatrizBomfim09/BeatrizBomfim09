@@ -227,20 +227,6 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa�
 
 ---
 
-<!-- RODAPÉ ANIMADO -->
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBBE6,50:F25CD9,100:FF42CA&height=200&section=footer&text=Beatriz%20Bomfim&fontSize=42&fontColor=FFFFFF&fontAlignY=65&font=Playfair%20Display&animation=fadeIn&desc=TECNOLOGIA%20%7C%20CRIATIVIDADE%20%7C%20INOVA%C3%87%C3%83O&descSize=12&descAlignY=82&descColor=FFFFFF"
-  alt="Rodapé de Beatriz Bomfim"
-/>
-
-<sub>Feito com ♡ por Beatriz Bomfim</sub>
-
-<br/>
-
-<sub>© 2026 · Transformando ideias em tecnologia.</sub>
+div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DB55B8,50:71345F,100:17101C&height=110&section=footer" alt="Rodapé rosa"/> ### <span style="color:#FEBBE6">SYSTEM STATUS: ALWAYS EVOLVING</span>Feito com ♡ por Beatriz Bomfim <<sub>© 2026 · Transformando ideias em tecnologia.</sub>
 
 </div>
