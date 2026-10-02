@@ -21,12 +21,10 @@
   src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-FEBBE6?style=for-the-badge&labelColor=241020"
   alt="Status em evolução"
 />
-
 <img
   src="https://img.shields.io/badge/FOCO-TECNOLOGIA-F25CD9?style=for-the-badge&labelColor=241020"
   alt="Foco em tecnologia"
 />
-
 <img
   src="https://img.shields.io/badge/PA%C3%8DS-BRASIL-FEBBE6?style=for-the-badge&labelColor=241020"
   alt="País: Brasil"
