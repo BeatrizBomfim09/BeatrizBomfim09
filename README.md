@@ -160,7 +160,6 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
   src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:5E172D,100:17101C&height=110&section=footer"
   alt="Rodapé rosa"
 />
-
 <sub>© 2026 · Transformando ideias em tecnologia.</sub>
 
 </div>
