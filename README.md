@@ -57,7 +57,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 ---
 
-## `02. TECNOLOGIAS`
+## TECNOLOGIAS
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 ---
 
-## `03. FERRAMENTAS UTILIZADAS`
+## FERRAMENTAS UTILIZADAS
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 ---
 
-## `04. PROJETOS EM DESTAQUE`
+## PROJETOS EM DESTAQUE
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa�
 
 ---
 
-## `05. ESTATÍSTICAS DO GITHUB`
+## ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa�
 </div>
 
 
-## `07. REDES SOCIAIS`
+## REDES SOCIAIS
 
 <div align="center">
 
