@@ -119,14 +119,6 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 
 <div align="center">
 
-<!-- ESTATÍSTICAS GERAIS -->
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=BeatrizBomfim09&show_icons=true&count_private=true&hide_border=true&bg_color=241020&title_color=FEBBE6&icon_color=F25CD9&text_color=E8DCE8&ring_color=F25CD9&include_all_commits=true"
-  alt="Estatísticas gerais do GitHub"
-/>
-
 <!-- LINGUAGENS MAIS UTILIZADAS -->
 
 <img
@@ -134,19 +126,6 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBomfim09&layout=compact&hide_border=true&bg_color=241020&title_color=FEBBE6&text_color=E8DCE8&langs_count=6"
   alt="Linguagens mais utilizadas"
 />
-
-<br/><br/>
-
-<!-- SEQUÊNCIA DE CONTRIBUIÇÕES -->
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=BeatrizBomfim09&theme=midnight-purple&hide_border=true&background=241020&ring=FEBBE6&fire=F25CD9&currStreakLabel=FEBBE6&sideLabels=E8DCE8&currStreakNum=FFFFFF&sideNums=F25CD9&dates=BAA8BC"
-  alt="Sequência de contribuições"
-/>
-
-</div>
-
 
 ## REDES SOCIAIS
 
