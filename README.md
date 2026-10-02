@@ -186,14 +186,6 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa�
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=BeatrizBomfim09&style=flat-square&color=F25CD9&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL"
-  alt="Visualizações do perfil"
-/>
-
-</div>
-
----
 
 <div align="center">
 
