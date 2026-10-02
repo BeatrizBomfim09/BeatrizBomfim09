@@ -163,16 +163,6 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa�
   alt="Sequência de contribuições"
 />
 
-<br/><br/>
-
-<!-- GRÁFICO DE ATIVIDADES -->
-
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BeatrizBomfim09&bg_color=241020&color=FEBBE6&line=F25CD9&point=FFFFFF&area=true&area_color=71345F&hide_border=true&custom_title=MINHAS%20ATIVIDADES%20NO%20GITHUB"
-  alt="Gráfico de atividades do GitHub"
-/>
-
 </div>
 
 ---
