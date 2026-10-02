@@ -1,11 +1,16 @@
 <div align="center">
-  <img
-    src="./fundo-rosa.png"
-    width="100%"
-    alt="Fundo rosa claro"
-  />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBBE6,50:F25CD9,100:FF42CA&height=120&section=footer&animation=fadeIn"
+  alt="Rodapé animado rosa"
+/>
+
+<br/>
+
+<sub>♡ Desenvolvido por Beatriz Bomfim ♡</sub>
+
 </div>
----
 
 ## `01. SOBRE MIM`
 
