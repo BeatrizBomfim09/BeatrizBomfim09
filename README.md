@@ -1,71 +1,10 @@
 <div align="center">
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D050B,50:241020,100:FF4FCB&height=220&se… width="100%"/>
-
-
-
-<br>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=10… alt="Typing Animation"/>
-
-
-
-<br><br>
-
-
-
-<a href="https://github.com/BeatrizBomfim09">
-<img src="https://img.shields.io/badge/GitHub-BeatrizBomfim09-0D1117?style=for-the-badge&logo=github&logoColo…
-</a>
-
-
-
-<img src="https://komarev.com/ghpvc/?username=BeatrizBomfim09&style=for-the-badge&color=FF4FCB&label=PROFILE+…
-
-
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF4FCB?style=for-the-badge"/>
-
-
-
+  <img
+    src="./fundo-rosa.png"
+    width="100%"
+    alt="Fundo rosa claro"
+  />
 </div>
-
-
-
----
-
-
-
-<div align="center">
-
-
-
-## `◈ NAVEGAÇÃO ◈`
-
-
-
-<p>
-<a href="#-sobre-mim">ABOUT</a> •
-<a href="#-tech-stack">STACK</a> •
-<a href="#-ferramentas">TOOLS</a> •
-<a href="#-projetos">PROJECTS</a> •
-<a href="#-objetivos-atuais">GOALS</a> •
-<a href="#-github-analytics">STATS</a> •
-<a href="#-conquistas">TROPHIES</a> •
-<a href="#-conecte-se-comigo">CONTACT</a>
-</p>
-
-
-
-</div>
-
-
-
----
 ---
 
 ## `01. SOBRE MIM`
