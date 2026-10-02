@@ -2,15 +2,9 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBBE6,50:F25CD9,100:FF42CA&height=180&section=footer&text=Beatriz%20Bomfim&fontSize=35&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBBE6,50:F25CD9,100:FF42CA&height=200&section=footer&text=Beatriz%20Bomfim&fontSize=42&fontColor=FFFFFF&fontAlignY=65&font=Playfair%20Display&animation=fadeIn&desc=DEVELOPMENT%20%7C%20CREATIVITY%20%7C%20INNOVATION&descSize=12&descAlignY=82&descColor=FFFFFF"
   alt="Beatriz Bomfim"
 />
-
-</div>
-
-<br/>
-
-<sub>♡ Desenvolvido por Beatriz Bomfim ♡</sub>
 
 </div>
 
