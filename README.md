@@ -165,21 +165,6 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa√
 
 </div>
 
----
-
-## `06. CONQUISTAS`
-
-<div align="center">
-
-<img
-  width="95%"
-  src="https://github-profile-trophy.vercel.app/?username=BeatrizBomfim09&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
-  alt="Conquistas do GitHub"
-/>
-
-</div>
-
----
 
 ## `07. REDES SOCIAIS`
 
