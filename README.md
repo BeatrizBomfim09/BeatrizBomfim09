@@ -231,7 +231,7 @@ Plataforma que busca conectar mercados a entidades sociais para facilitar a doa√
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:DB55B8,50:71345F,100:17101C&height=180&section=footer&text=Beatriz%20Bomfim&fontSize=42&fontColor=FFFFFF&font=Playfair%20Display&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:DB55B8,50:71345F,100:17101C&height=110&section=footer"
   alt="Rodap√© rosa"
 />
 
