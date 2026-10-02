@@ -97,6 +97,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 ## PROJETOS EM DESTAQUE
 
+
 <div align="center">
 
 <a href="https://github.com/BeatrizBomfim09/SafeGate">
@@ -126,20 +127,6 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 Projeto de um site para uma cafeteria, com uma identidade visual acolhedora e foco na apresentação dos produtos e na experiência dos clientes.
 
 **Tecnologias:** HTML, CSS e JavaScript.
-
-### ◈ SafeGate — Sistema Escolar
-
-Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxiliar no controle e na organização do ambiente escolar.
-
-**Tecnologias:** Java, Spring Boot, HTML, CSS e SQL.
-
-### ◈ Food Rescue — Combate ao Desperdício
-
-Plataforma que busca conectar mercados a entidades sociais para facilitar a doação de alimentos próximos do vencimento e reduzir o desperdício.
-
-**Tecnologias:** Java, Spring Boot, Thymeleaf, HTML, CSS e SQL.
-
----
 
 ## ESTATÍSTICAS DO GITHUB
 
