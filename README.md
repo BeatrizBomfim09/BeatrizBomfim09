@@ -33,7 +33,7 @@
 
 ---
 
-## SOBRE MIM
+## 👩🏻‍💻 SOBRE MIM
 
 <img
   align="right"
@@ -56,7 +56,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 ---
 
-## TECNOLOGIAS
+## 🛠️ TECNOLOGIAS
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 ---
 
-## FERRAMENTAS UTILIZADAS
+## ⚙️ FERRAMENTAS UTILIZADAS
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Olá! Eu sou a **Beatriz Bomfim**! 💗
 
 ---
 
-## PROJETOS EM DESTAQUE
+## 🚀 PROJETOS EM DESTAQUE
 
 
 <div align="center">
@@ -114,7 +114,7 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 
 **Tecnologias:** Java, Spring Boot, HTML, CSS e SQL.
 
-## ESTATÍSTICAS DO GITHUB
+## 📊 ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
@@ -128,7 +128,7 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 
 ---
 
-## REDES SOCIAIS
+## 🌐 REDES SOCIAIS
 
 <div align="center">
 
