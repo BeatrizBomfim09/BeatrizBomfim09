@@ -163,4 +163,4 @@ Sistema de gerenciamento de entrada e saída de alunos, desenvolvido para auxili
 <sub>© 2026 · Transformando ideias em tecnologia.</sub>
 
 </div>
-```
+
